@@ -1,15 +1,15 @@
  weather-forecasting-SARIMAX-VAR-LSTM-DNN
 ## Weather forecasting with Time Series (SARIMAX,VAR) and Neural Network Approach (LSTM)
+<br>
+Files : <br>
 
-Files : 
+Project.ipynb 			-	Jupyter notebook file <br>
+Project.html			-	Notebook HTML<br>
+PowerBI Report.pbix		-	PowerBI Report File	<br>
+datasets/Ontario daily.xlsx 	- 	Ontario stations data<br>
+datasets/Torronto Daily.xlsx	-	Toronto city data<br>
+datasets/df_avgT_F		- 	cleaned stations temperature data<br>
+datasets/df_AvgWind_F		-	cleaned stations wind data<br>
 
-Project.ipynb 			-	Jupyter notebook file
-Project.html			-	Notebook HTML
-PowerBI Report.pbix		-	PowerBI Report File	
-datasets/Ontario daily.xlsx 	- 	Ontario stations data
-datasets/Torronto Daily.xlsx	-	Toronto city data
-datasets/df_avgT_F		- 	cleaned stations temperature data
-datasets/df_AvgWind_F		-	cleaned stations wind data
-
-
-Dataset taken from : https://mesonet.agron.iastate.edu/ 
+<br>
+Dataset taken from : https://mesonet.agron.iastate.edu/ <br>
