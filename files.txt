@@ -1,0 +1,9 @@
+Files : 
+
+Project.ipynb 			-	Jupyter notebook file
+Project.html			-	Notebook HTML
+PowerBI Report.pbix		-	PowerBI Report File	
+datasets/Ontario daily.xlsx 	- 	Ontario stations data
+datasets/Torronto Daily.xlsx	-	Toronto city data
+datasets/df_avgT_F		- 	cleaned stations temperature data
+datasets/df_AvgWind_F		-	cleaned stations wind data
